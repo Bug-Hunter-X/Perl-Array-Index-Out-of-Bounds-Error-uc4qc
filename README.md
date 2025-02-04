@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: accessing an array element outside its valid index range.  The `bug.pl` file contains code that will cause a runtime error. The `bugSolution.pl` file shows how to prevent this error by checking the index before accessing the array element.  This is crucial for robust Perl programming.
